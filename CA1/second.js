@@ -1,3 +1,6 @@
+// navigate to this (CA1) directory 
+// run: node second
+
 const prompt = require('prompt-sync')()
 const fs = require('fs')
 let n = Math.abs(prompt('Enter Number: '))

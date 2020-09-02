@@ -1,3 +1,6 @@
+// navigate to this (CA1) directory 
+// run: node third
+
 const fs = require('fs')
 const prompt = require('prompt-sync')()
 

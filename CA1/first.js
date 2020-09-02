@@ -1,3 +1,6 @@
+// navigate to this (CA1) directory 
+// run: node first
+
 const prompt = require('prompt-sync')()
 
 function TaxCheck(name, salary) {
