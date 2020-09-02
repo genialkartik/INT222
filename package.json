@@ -1,0 +1,27 @@
+{
+  "name": "int222",
+  "version": "1.0.0",
+  "description": "This repo is the continuation of University assigned assisments.",
+  "main": "index.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genialkartik/INT222.git"
+  },
+  "keywords": [
+    "nodejs",
+    "lpu"
+  ],
+  "author": "Kartik Tyagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genialkartik/INT222/issues"
+  },
+  "homepage": "https://github.com/genialkartik/INT222#readme"
+}
